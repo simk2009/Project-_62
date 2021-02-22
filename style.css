@@ -1,0 +1,36 @@
+body{
+background:linear-gradient(hotpink,blue)    
+    
+}
+.menu{
+  color:cya;
+    font-size:24;
+    font-family: cursive;
+    text-align:center;
+}
+.links {
+
+    float:middle;
+    
+    font-family: fantasy;
+    font-size: 20px;
+}
+
+.links:hover {
+    background-color: blue;
+
+}
+h1 {
+    color:blue;
+    font-family: cursive;
+font-size:44;
+}
+h2 {
+    color:blue;
+    font-family: cursive;
+    font-size:42;
+}
+#rose,#lily,#lotus,#jasmine,#hibiscus{
+    background:linear-gradient(purple,blue,deeppink) 
+        
+}
